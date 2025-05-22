@@ -67,6 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ##--------------------------------------------------------------------------------------------------------------------------------------------------------##
 
-admin account : "admin@gmail.com" --> passsword = 12345678
-u need to make an hash to this password then u can access to the admin account
+admin account : "admin@gmail.com" --> passsword = 12345678 :
+
+    -u need to make an hash to this password then u can access to the admin account
 
